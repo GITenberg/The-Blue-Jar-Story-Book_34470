@@ -1,0 +1,53 @@
+_repo: The-Blue-Jar-Story-Book_34470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lamb, Charles
+    birthdate: 1775
+    deathdate: 1834
+    gutenberg_agent_id: '293'
+    url: http://www.gutenberg.org/2009/agents/293
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
+  - agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
+  - agent_name: Lamb, Mary
+    alias: Lamb, Mary Ann
+    birthdate: 1764
+    deathdate: 1847
+    gutenberg_agent_id: '294'
+    url: http://www.gutenberg.org/2009/agents/294
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Lamb
+  - agent_name: Mant, Alicia Catherine
+    aliases:
+    - Mant, Miss
+    - Mant, Alicia C.
+    - Mant, Catherine Alicia
+    deathdate: 1869
+    gutenberg_agent_id: '9148'
+    url: http://www.gutenberg.org/2009/agents/9148
+description: ''
+gutenberg_issued: '2010-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34470'
+  lccn: '07030432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: The blue jar -- The basket woman -- The sea voyage -- The changeling
+  -- The inquisitive girl -- The little blue bag.
+title: The Blue Jar Story Book
+url: http://www.gutenberg.org/ebooks/34470
