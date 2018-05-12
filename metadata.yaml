@@ -34,6 +34,8 @@ creator:
     gutenberg_agent_id: '9148'
     url: http://www.gutenberg.org/2009/agents/9148
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34470#The-Blue-Jar-Story-Book
 gutenberg_issued: '2010-11-28'
 gutenberg_type: Text
 identifiers:
